@@ -1,0 +1,7 @@
+Dependencies for Project 'seg', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x4E78202C)(--cpu ARM7TDMI -g --apcs=interwork -I "C:\Keil4\ARM\CMSIS\Include" -I "C:\Keil4\ARM\INC\Philips" --list "Startup.lst" --xref -o "Startup.o" --depend "Startup.d")
+F (.\seeee.c)(0x57BED12C)(-c --cpu ARM7TDMI -g -O0 --apcs=interwork -I "C:\Keil4\ARM\CMSIS\Include" -I "C:\Keil4\ARM\INC\Philips" -o "seeee.o" --omf_browse "seeee.crf" --depend "seeee.d")
+I (C:\Keil4\ARM\INC\Philips\LPC214X.H)(0x4E78215A)
+I (delay.h)(0x57BD9446)
+I (segment.h)(0x57BECB77)
+I (keypad.h)(0x57BED5C5)
